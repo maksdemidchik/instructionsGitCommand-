@@ -4,6 +4,7 @@
 
 Эпик : Корзина
 
+
 Ссылка на доску: https://github.com/users/resxton/projects/3/views/1?filterQuery=assignee%3Amaksdemidchik
 
 ## **Часть 1**
